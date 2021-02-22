@@ -4,7 +4,7 @@ In this project, I will create a webpage with bouncing balls are bouncing all ov
 
 Base on: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice
 
-# Skills I will showcase: 
+# Skills I will Showcase: 
  - Javascript: 
     - Objected-Oriented Javascript
     - Javascript Basics
